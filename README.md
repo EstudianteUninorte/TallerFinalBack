@@ -1,15 +1,20 @@
-# APIRest
-## Diseño de aplicaciones Web
+# Integrantes
+## Karen Sampayo
+## Jose Narvaez
+## Roberto Campy
 
-1. Download the repository
+# APIRest
+## Taller final Back
+
+1. Descargar el repostorio
 ```
-git clone https://github.com/jestrade/diseno-aplicaciones-web.git
+git clone https://github.com/EstudianteUninorte/TallerFinalBack.git
 ```
-2. Go to directory diseno-aplicaciones-web
+2. Ir al directorio TallerFinalBack
 ```
-cd diseno-aplicaciones-web
+cd TallerFinalBack
 ```
-3. Install the app
+3. Installar el app
 ```
 npm install
 ```
@@ -30,26 +35,26 @@ SECRET_KEY=
 TOKEN_KEY=
 ```
 
-5. To run the app on production mode
+5. Correr la aplicación en modo producción
 ```
 npm start
 ```
 
-6. To run the app on development mode
-6.1 Install nodemon
+6. Para correr la aplicación en modo desarrollo
+6.1 Instalar nodemon
 ```
 npm i nodemon -g
 ```
-6.2 Run
+6.2 Correr
 ```
 npm run dev
 ```
-7  To run tests
+7  Para correr los test
 ```
 npm run test
 ```
 
-# Libraries
+# Librerias
 - https://www.npmjs.com/package/express
 - https://www.npmjs.com/package/mongoose
 - https://www.npmjs.com/package/dotenv
